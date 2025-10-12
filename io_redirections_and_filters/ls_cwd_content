@@ -1,0 +1,15 @@
+total 44
+drwxr-xr-x 1 anthony anthony 330 Oct 11 20:23 .
+drwxr-xr-x 1 anthony anthony 114 Oct 11 19:43 ..
+-rwxr--r-- 1 anthony anthony  32 Oct 11 19:48 0-hello_world
+-rwxr--r-- 1 anthony anthony  30 Oct 11 19:54 1-confused_smiley
+-rwxr--r-- 1 anthony anthony  28 Oct 11 19:56 2-hellofile
+-rwxr--r-- 1 anthony anthony  39 Oct 11 20:01 3-twofiles
+-rwxr--r-- 1 anthony anthony  29 Oct 11 20:09 4-lastlines
+-rwxr--r-- 1 anthony anthony  29 Oct 11 20:15 5-firstlines
+-rwxr--r-- 1 anthony anthony  40 Oct 11 20:18 6-third_line
+-rwxr--r-- 1 anthony anthony  90 Oct 11 20:20 7-file
+-rwxr--r-- 1 anthony anthony  36 Oct 11 20:22 8-cwd_state
+-rw-r--r-- 1 anthony anthony  12 Oct 11 20:21 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:\)
+-rw-r--r-- 1 anthony anthony   0 Oct 11 20:23 ls_cwd_content
+-rw-r--r-- 1 anthony anthony 243 Oct 11 19:45 README.md
