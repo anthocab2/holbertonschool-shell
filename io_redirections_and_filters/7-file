@@ -1,4 +1,4 @@
 #!/bin/bash
 # 7-file - creates a file named '*\'"Best School"' containing "Best School"
 
-echo "Best School" > $'*\\\'"Best School"'
+echo "Best School" > "*'\"Best School\""
